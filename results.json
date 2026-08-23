@@ -1,0 +1,37 @@
+[
+  {
+    "product_name": "Aurora Wireless Headphones",
+    "price": { "value": 151.24, "currency": "USD", "symbol": "$" },
+    "description": "Over-ear wireless headphones with 40 mm drivers, 32 hours of battery, and memory-foam cups that disappear on long sessions. A soft matte finish keeps fingerprints off and the folding hinge makes them easy to toss in a bag.",
+    "rating": 4.1,
+    "image_url": "https://shopalto.xyz/_next/image?url=https%3A%2F%2Floremflickr.com%2F800%2F800%2Fheadphones%2Caudio%3Flock%3D0011%26v%3D137&w=3840&q=75",
+    "product_page_url": "https://shopalto.xyz/product/aurora-wireless-headphones"
+  },
+  {
+    "product_name": "Mute Pro Earbuds",
+    "rating": 3.8,
+    "image_url": "https://shopalto.xyz/_next/image?url=https%3A%2F%2Floremflickr.com%2F800%2F800%2Fearbuds%2Cwireless%3Flock%3D0071%26v%3D137&w=3840&q=75",
+    "product_page_url": "https://shopalto.xyz/product/mute-pro-earbuds"
+  },
+  {
+    "product_name": "Pulse Smartwatch",
+    "rating": 4.1,
+    "product_page_url": "https://shopalto.xyz/product/pulse-smartwatch"
+  },
+  {
+    "product_name": "Clack 75% Mechanical Keyboard",
+    "rating": 4.5,
+    "product_page_url": "https://shopalto.xyz/product/clack-75-mechanical-keyboard"
+  },
+  {
+    "product_name": "Hub 9 USB-C Dock",
+    "description": "Nine ports in a brushed aluminum shell: 4K HDMI, gigabit ethernet, SD/microSD, three USB-A, and 100 W pass-through charging. Plug in once and your desk is done.",
+    "rating": 4.6,
+    "product_page_url": "https://shopalto.xyz/product/hub-9-usb-c-dock"
+  },
+  {
+    "product_name": "Quiet Fleece Hoodie",
+    "rating": 5,
+    "product_page_url": "https://shopalto.xyz/product/quiet-fleece-hoodie"
+  }
+]
